@@ -1,6 +1,6 @@
 # Simple Quiz App
 
-This is a simple interactive quiz application built using HTML, CSS, and JavaScript. It presents a series of questions with multiple-choice answers and allows users to test their knowledge by selecting the correct answers. After completing the quiz, users can see their score.
+This is a simple interactive quiz application built using HTML, CSS, and JavaScript. It presents a series of questions with multiple-choice answers and allows users to test their knowledge by selecting the correct answers. After completing the quiz, users can see their score. [**TRY IT**](https://codewarnab.github.io/quiz-app/)
 
 ## Table of Contents
 
