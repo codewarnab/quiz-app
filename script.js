@@ -93,7 +93,7 @@ function selectAnswer(e) {
         if(button.dataset.correct === "true"){
             button.classList.add("correct");
         }
-        button.disabled = "block";
+        button.disabled = true;
     });
     nextButton.style.display = "block";
 }
